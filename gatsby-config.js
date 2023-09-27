@@ -24,7 +24,7 @@ module.exports = {
       },*/
       {
         title: 'Events',
-        path: 'https://developer.adobe.com/cpp-docs/events'
+        path: '/cpp-docs/events'
       },
       {
         title: 'Blog',
@@ -36,11 +36,11 @@ module.exports = {
       },
       {
         title: 'Careers',
-        path: 'https://developer.adobe.com/cpp-docs/careers'
+        path: '/cpp-docs/careers'
       },
       {
         title: 'Teams',
-        path: 'https://developer.adobe.com/cpp-docs/teams'
+        path: '/cpp-docs/teams'
       }
     ],
     subPages: []
