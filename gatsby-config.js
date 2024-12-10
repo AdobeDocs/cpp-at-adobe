@@ -36,7 +36,7 @@ module.exports = {
       },
       {
         title: 'Careers',
-        path: 'https://developer.adobe.com/cpp-docs/careers'
+        path: 'https://developer.adobe.com/cpp-docs/careers/'
       },
       {
         title: 'Teams',
