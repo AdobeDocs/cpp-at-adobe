@@ -9,7 +9,7 @@ on:
         required: true
         default: "stage"
         options:
-          - "prod"
+          - "stage"
           - "stage & prod"
       baseSha:
         description: "Use base SHA commit to deploy from (empty string defaults to last commit before HEAD)"
