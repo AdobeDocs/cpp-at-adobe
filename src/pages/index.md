@@ -6,7 +6,7 @@ contributors:
 ---
 
 
-<Hero slots="image, heading, text1"/>
+<SuperHero slots="image, heading, text1"/>
 
 ![Hero image](./images/header_gradient.jpg)
 
@@ -39,7 +39,7 @@ technology landscape.
 
 <DiscoverBlock slots="link, text"/>
 
-[Training](training/)
+[Training](training/index.md)
 
 In the Training section, you'll find a range of resources designed to elevate
 your C++ skills, tailored for all levels of expertise, and closely aligned with
