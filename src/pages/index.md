@@ -6,12 +6,11 @@ contributors:
 ---
 
 
-<SuperHero slots="image, heading, text1"/>
+<SuperHero slots="image, heading, text"/>
 
 ![Hero image](./images/header_gradient.jpg)
 
 # C++ at Adobe
-
 
 Dive into the world of Adobe's C++ expertise with cutting-edge whitepapers,
 insightful blogs, comprehensive training resources, exciting events, and
