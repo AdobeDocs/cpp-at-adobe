@@ -1,0 +1,64 @@
+{
+  "total": 14,
+  "offset": 0,
+  "limit": 14,
+  "data": [
+    {
+      "Source": "/cpp",
+      "Destination": "/cpp/"
+    },
+    {
+      "Source": "/cpp/index",
+      "Destination": "/cpp/"
+    },
+    {
+      "Source": "/cpp/whitepapers",
+      "Destination": "/cpp/whitepapers/"
+    },
+    {
+      "Source": "/cpp/whitepapers/index",
+      "Destination": "/cpp/whitepapers/"
+    },
+    {
+      "Source": "/cpp/whitepapers/cpp-successor-update",
+      "Destination": "/cpp/whitepapers/cpp-successor-update/"
+    },
+    {
+      "Source": "/cpp/whitepapers/cpp-successor-update/index",
+      "Destination": "/cpp/whitepapers/cpp-successor-update/"
+    },
+    {
+      "Source": "/cpp/training",
+      "Destination": "/cpp/training/"
+    },
+    {
+      "Source": "/cpp/training/index",
+      "Destination": "/cpp/training/"
+    },
+    {
+      "Source": "/cpp/teams",
+      "Destination": "/cpp/teams/"
+    },
+    {
+      "Source": "/cpp/teams/index",
+      "Destination": "/cpp/teams/"
+    },
+    {
+      "Source": "/cpp/events",
+      "Destination": "/cpp/events/"
+    },
+    {
+      "Source": "/cpp/events/index",
+      "Destination": "/cpp/events/"
+    },
+    {
+      "Source": "/cpp/careers",
+      "Destination": "/cpp/careers/"
+    },
+    {
+      "Source": "/cpp/careers/index",
+      "Destination": "/cpp/careers/"
+    }
+  ],
+  ":type": "sheet"
+}
