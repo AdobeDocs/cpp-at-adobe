@@ -48,7 +48,7 @@ Adobe's cutting-edge programming practices.
 
 ### C++ at Adobe
 
-[Events](../cpp-docs/events)
+[Events](https://developer.adobe.com/cpp-docs/events)
 
 Browse the Events section for exciting opportunities to engage with C++
 enthusiasts and Adobe's experts, through webinars, workshops, and conferences
@@ -56,7 +56,7 @@ focused on showcasing the revolutionary applications of C++ at Adobe.
 
 <DiscoverBlock slots="link, text"/>
 
-[Careers](../cpp-docs/careers)
+[Careers](https://developer.adobe.com/cpp-docs/careers/)
 
 Explore the Careers section for rewarding opportunities to join Adobe's dynamic
 team of C++ professionals, contributing to the company's innovative solutions
@@ -64,7 +64,7 @@ and shaping the future of digital experiences.
 
 <DiscoverBlock slots="link, text"/>
 
-[Teams](../cpp-docs/teams)
+[Teams](https://developer.adobe.com/cpp-docs/teams)
 
 Step into the Teams section to meet our talented C++ professionals at Adobe,
 working on compelling challenges and pioneering solutions that reshape the
