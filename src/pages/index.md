@@ -6,12 +6,11 @@ contributors:
 ---
 
 
-<Hero slots="image, heading, text1"/>
+<SuperHero slots="image, heading, text"/>
 
 ![Hero image](./images/header_gradient.jpg)
 
 # C++ at Adobe
-
 
 Dive into the world of Adobe's C++ expertise with cutting-edge whitepapers,
 insightful blogs, comprehensive training resources, exciting events, and
@@ -39,7 +38,7 @@ technology landscape.
 
 <DiscoverBlock slots="link, text"/>
 
-[Training](training/)
+[Training](training/index.md)
 
 In the Training section, you'll find a range of resources designed to elevate
 your C++ skills, tailored for all levels of expertise, and closely aligned with

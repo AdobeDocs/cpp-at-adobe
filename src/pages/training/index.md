@@ -3,7 +3,7 @@ title: Training
 description: This is the training overview page
 ---
 
-<Hero slots="image, heading, text1"/>
+<SuperHero slots="image, heading, text"/>
 
 ![Hero image](../images/header_gradient.jpg)
 

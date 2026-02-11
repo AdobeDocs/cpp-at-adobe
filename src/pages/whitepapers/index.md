@@ -13,10 +13,10 @@ Our library of C++ whitepapers, providing insights, methodologies, and advanced 
 
 ## Nothing here yet! Check back later
 
-<!--
+\<!--
 ## Featured
 
-<TextBlock slots="image, heading, text, links" width="33%" />
+<Cards slots="image, heading, text, links" width="33%" />
 
 ![C++ logo](../images/cpp-successor-update.jpg)
 
@@ -30,9 +30,9 @@ effort to help answer that question, this paper explores the adoption
 feasibility of several memory safe alternatives to C++. - *David Sankel* - May
 22, 2023
 
-[View Whitepaper](./cpp-successor-update/)
+[View Whitepaper](cpp-successor-update/index.md)
 
-<TextBlock slots="image, heading, text, links" width="33%" />
+<Cards slots="image, heading, text, links" width="33%" />
 
 ![C++ logo](../images/c_plus_plus_logo.png)
 
@@ -55,9 +55,9 @@ _safety_ and related terms to provide a framework to further the discussion with
 actionable guidance regarding the correct use of C++.- *Sean Parent* - May 20,
 2023
 
-[View Whitepaper](./cpp-successor-update/)
+[View Whitepaper](cpp-successor-update/index.md)
 
-<TextBlock slots="image, heading, text, links" width="33%" />
+<Cards slots="image, heading, text, links" width="33%" />
 
 ![C++ logo](../images/object-validity-state-value.jpg)
 
@@ -71,11 +71,11 @@ its harmony with existing practice and desires. We discuss the implications of
 this model for move semantics, correctness, and efficiency. - *David Sankel* -
 May 19, 2023
 
-[View Whitepaper](./cpp-successor-update/)
+[View Whitepaper](cpp-successor-update/index.md)
 
 ## 2023
 
-### [Memory safety and C++ successors](./cpp-successor-update/)
+### [Memory safety and C++ successors](cpp-successor-update/index.md)
 
 Software exploits increasingly harm consumers and threaten national security.
 Memory safe programming languages provide substantial protection and some groups
@@ -85,7 +85,7 @@ effort to help answer that question, this paper explores the adoption
 feasibility of several memory safe alternatives to C++.  
 *David Sankel* &mdash; May 22, 2023
 
-### [Safety in the context of C++](./cpp-successor-update/)
+### [Safety in the context of C++](cpp-successor-update/index.md)
 
 Safety, particularly _memory safety_, is a growing concern in the C++ community
 driven by the security implications of memory unsafe systems. Consumer Reports
@@ -114,4 +114,4 @@ its harmony with existing practice and desires. We discuss the implications of
 this model for move semantics, correctness, and efficiency.  
 *David Sankel* &mdash; May 19, 2023
 
--->
+--\>
