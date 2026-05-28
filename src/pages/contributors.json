@@ -1,0 +1,68 @@
+{
+  "total": 8,
+  "offset": 0,
+  "limit": 8,
+  "data": [
+    {
+      "page": "/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/3770603?v=4"
+      ],
+      "lastUpdated": "2/11/2026"
+    },
+    {
+      "page": "/careers/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/3770603?v=4"
+      ],
+      "lastUpdated": "5/22/2023"
+    },
+    {
+      "page": "/config",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "2/2/2026"
+    },
+    {
+      "page": "/events/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/3770603?v=4"
+      ],
+      "lastUpdated": "5/22/2023"
+    },
+    {
+      "page": "/teams/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/3770603?v=4"
+      ],
+      "lastUpdated": "5/22/2023"
+    },
+    {
+      "page": "/training/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/3770603?v=4"
+      ],
+      "lastUpdated": "2/5/2026"
+    },
+    {
+      "page": "/whitepapers/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/3770603?v=4",
+        "https://avatars.githubusercontent.com/u/6126236?v=4"
+      ],
+      "lastUpdated": "2/2/2026"
+    },
+    {
+      "page": "/whitepapers/cpp-successor-update/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/3770603?v=4"
+      ],
+      "lastUpdated": "5/22/2023"
+    }
+  ],
+  ":type": "sheet"
+}
